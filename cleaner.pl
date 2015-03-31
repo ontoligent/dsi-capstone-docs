@@ -34,7 +34,17 @@ for my $file (@files) {
 	my $s1 = 0; # print line on/off switch
 	my $s2 = 0; # print doc on/off switch
 	my $content = '';
+	my $company = '';
+	my $sector = '';
 	for my $line (@clean_text) {
+		if ($line =~ /^\s*COMPANY CONFORMED NAME:\s+(.+)\s*$/i) {
+			$company = $1;
+			next;
+		}
+		if ($line =~ /^\s*STANDARD INDUSTRIAL CLASSIFICATION:\s+(.+)\s*$/i) {
+			$sector = $1;
+			next;
+		}
 		if ($line =~ /^\s*Item 7[. ]/i) {
 			$s1 = 1;
 			$s2 = 1;
@@ -44,13 +54,33 @@ for my $file (@files) {
 			$s1 = 0;
 			last;	
 		}
+		if ($line =~ /Not Applicable/) {
+			next;
+		}
+		if ($line =~ /Quantitative and Qualitative Disclosures About Market/i) {
+			next;
+		}
+		if ($line =~ /Item 7A/i) {
+			next;
+		}
+		if ($line =~ /ANALYSIS OF FINANCIAL CONDITION/i) {
+			next;
+		}
+		if ($line =~ /^\s*$/) {
+			next;
+		}
 		$content .= "$line " if $s1;
 	}
-	if ($s2) {
-		$content =~ s/\s+/ /g;
-		$content =~ s/Management’s Discussion and Analysis of Financial Condition and Results of Operations?//ig;
+	$content =~ s/\d+/ /g;
+	$content =~ s/\W+/ /g;
+	$content =~ s/\s+/ /g;
+	if ($content !~ /^\s*$/ && $s2) {
+		my $id = $file;
+		$id =~ s/sample-data\/(.+)\.txt/$1/;
 		print XML "\t<doc>\n";
-		print XML "\t\t<id>$file</id>\n";
+		print XML "\t\t<id>$id</id>\n";
+		print XML "\t\t<company>$company</company>\n";
+		print XML "\t\t<sector>$sector</sector>\n";
 		print XML "\t\t<c><![CDATA[$content]]></c>\n";
 		print XML "\t</doc>\n";	
 	}
