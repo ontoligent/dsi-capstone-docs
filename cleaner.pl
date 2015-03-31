@@ -20,6 +20,7 @@ Selling, General, and Administrative
 Income from Operations
 /;
 my $headers = join "|", @headers;
+my $header_pat = qr/^\s*($headers)\s*$/i;
 
 # Instantiate an object for stripping HTML below
 my $hs = HTML::Strip->new();
@@ -36,14 +37,18 @@ for my $file (@files) {
 	# Remove new line if there is one
 	chomp $file;
 
-	# Open the source file, which is full of HTML
+	# Open the source file, which is full of crappy HTML
 	open IN, $file;
 	my @raw_html = <IN>;
 	my $raw_html = '';
+	my $s = 0;
 	for my $line (@raw_html) {
-		chomp $line;
-		$line =~ s/(<\/[^>]+>)/$1\n/gm;
-		$raw_html .= $line . " ";
+		$s = 1 if ($line =~ /\/SEC-HEADER/);
+		if ($s) {
+			chomp $line; # Remove line breaks
+			$line =~ s/(<\/[^>]+>)/$1\n/gm; # Add them to the end of elements
+		}
+		$raw_html .= $line . " "; # Append to the new doc
 	}
 	close IN;
 	
@@ -90,7 +95,7 @@ for my $file (@files) {
 			|| $line =~ /^\s*Item 7A/i
 			|| $line =~ /DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION/i
 			|| $line =~ /^\s*$/
-			|| $line =~ /^\s*($headers)\s*$/i
+			|| $line =~ $header_pat
 		);
 		
 		# Gather content if on
@@ -127,5 +132,6 @@ for my $file (@files) {
 
 print XML "</docs>\n";
 close XML;
+
 
 exit;
