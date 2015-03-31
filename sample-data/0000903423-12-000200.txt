@@ -1,0 +1,2074 @@
+<SEC-DOCUMENT>0000903423-12-000200.txt : 20120329
+<SEC-HEADER>0000903423-12-000200.hdr.sgml : 20120329
+<ACCEPTANCE-DATETIME>20120329123114
+ACCESSION NUMBER:		0000903423-12-000200
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20111231
+FILED AS OF DATE:		20120329
+DATE AS OF CHANGE:		20120329
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MS Structured Step Up Callable Trust Units Series 2010-02 (BAC)
+		CENTRAL INDEX KEY:			0001502101
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34908
+		FILM NUMBER:		12723015
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		2127611715
+
+	MAIL ADDRESS:	
+		STREET 1:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MS Structured Bank of America Debt Backed Step Up Callables Series 2010-02
+		DATE OF NAME CHANGE:	20100924
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>saturns10k2010-2.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb Steen and Hamilton LLP-->
+    <!--Document Created using EDGARizer 2020 5.4.1.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">WASHINGTON, D.C.&#160;&#160;20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">__________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM 10-K</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">ANNUAL REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">PURSUANT TO SECTIONS 13 OR 15(d) OF THE</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES EXCHANGE ACT OF 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Mark One)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[X]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>EXCHANGE ACT OF 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For the fiscal year ended <font style="DISPLAY: inline; TEXT-DECORATION: underline">December 31, 2011</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">OR</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[&#160;&#160;]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>EXCHANGE ACT OF 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">For the transition period from __________ to __________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Commission File Numbers</font>&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">333-165725, 001-34908</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">SATURNS Trust No.</font> <font style="DISPLAY: inline; FONT-WEIGHT: bold">2010-02 (BAC)</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">MS STRUCTURED ASSET CORP., as Depositor and Sponsor</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;(Exact name of registrant as specified in its charter) </font>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="80%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="50%" style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline">Delaware</font></font></td>
+<td width="50%" style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;13-4026700&#160;</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;(State or other jurisdiction of incorporation or organization)&#160;</font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;(IRS Employer Identification No.)</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">1585 Broadway, Second Floor</font></font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">New York, New York&#160;</font></font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">10036</font></font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Attention: In-Young Chase</font></font></div>
+</td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Address of principal executive office)&#160;</font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;(Zip Code)</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Registrant&#8217;s telephone number, including area code:&#160;</font></td>
+<td width="50%" style="TEXT-ALIGN: center"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold">(212) 761-2457</font></font></td>
+</tr></table>
+</div>
+
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Securities registered pursuant to Section 12(b) of the Act:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="48%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Title of Each Class</font></font></div>
+</td>
+<td valign="top" width="34%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Name of Each Exchange on Which Registered</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="48%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SATURNS Step Up Callable Trust Units Series 2010-02 (BAC)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+<td valign="top" width="34%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">New York Stock Exchange</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Securities registered pursuant to Section 12(g) of the Act:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">None</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ___ No <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;X&#160;&#160;&#160;&#160;&#160;</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. Yes ___ No <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;X</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indicate by check mark whether registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.&#160;&#160;Yes <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;X&#160;&#160;&#160;</font>&#160;&#160;No ___</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes ___ No ___</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indicate by check mark if disclosure of delinquent filers pursuant to Item&#160;405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant&#8217;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.&#160;&#160;[&#160;&#160;&#160;&#160;]</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.&#160;&#160;See definition of &#8220;accelerated filer and large accelerated filer&#8221; in Rule 12b-2 of the Exchange Act.&#160;&#160;(Check one):</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Large accelerated filer ___&#160;&#160;&#160; Accelerated filer ___&#160;&#160;&#160;Non-accelerated filer <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;X&#160;&#160;&#160;</font>&#160;&#160; Smaller reporting company ___</font></font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).&#160;&#160; Yes ___ No <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;X</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">All of the common stock of the registrant is held by Morgan Stanley.&#160;&#160;As of March 26, 2012, 1,000 shares of common stock, par value $1.00 per share, were outstanding.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">DOCUMENTS INCORPORATED BY REFERENCE:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The following reports of Morgan Stanley pursuant to Item 1115(b): Quarterly Report on Form 10-Q for the quarterly period ended&#160;&#160;June 30, 2011; Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2011;&#160;&#160;Annual Report on Form 10-K for the fiscal year ended December 31, 2011; and all other documents subsequently filed by Morgan Stanley pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934, during the fiscal year covered by this Report on Form 10-K, which contain financial statements of Morgan Stanley or which amend the foregoing reports.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">PART I</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1.&#160;&#160;BUSINESS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1A. RISK FACTORS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1B. UNRESOLVED STAFF COMMENTS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 2.&#160;&#160;PROPERTIES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 3.&#160;&#160;LEGAL PROCEEDINGS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 4.&#160;&#160;SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">PART II</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 5.&#160;&#160;MARKET FOR REGISTRANT&#8217;S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 6.&#160;&#160;SELECTED FINANCIAL DATA</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 7.&#160;&#160;MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</font></div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 8.&#160;&#160;FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 9.&#160;&#160;CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE</font></div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 9A.&#160;&#160;CONTROLS AND PROCEDURES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 9B.&#160;&#160;OTHER INFORMATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">None</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">PART III</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 11. EXECUTIVE COMPENSATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT</font></div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ADDITIONAL DISCLOSURE ITEMS PURSUANT TO REGULATION AB</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1112(b). SIGNIFICANT OBLIGORS OF POOL ASSETS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Bank of America Corporation, the underlying security guarantor with respect to the Units, is a &#8220;significant obligor&#8221; with respect to the assets of the Trust for purposes of Item 1112 of Regulation AB. For any financial statements of Bank of America Corporation required to be provided under Regulation S-X during the period since the initial issuance of the Units, this Form 10-K report refers, pursuant to Item 1100(c)(2) of Regulation AB, to the periodic reports of Bank of America Corporation under section 13(a) or 15(d) of the Exchange Act (&#8220;Underlying Security Issuer Exchange Act Reports&#8221;) that are on file with the Securities and Exchange Commission (the &#8220;SEC&#8221;). Such Underlying Security Issuer Exchange Act Reports may be accessed at the public reference facilities maintained by the SEC at Room 1024, 100 F Street, NE, Washington, D.C. 20549. Copies of those materials can be obtained by making a written request to the SEC, Public Reference Section, 100 F Street, NE, Washington, D.C. 20549, at prescribed rates. The SEC also maintains a website on the internet at http://www.sec.gov at which users can view and download copies of reports, proxy, information statements and other information filed electronically. The SEC file number for Bank of America Corporation is 333-158663.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The underlying security guarantor financial statements and Underlying Security Issuer Exchange Act Reports referred to above are not incorporated by reference in this Form 10-K report; and the Trust, the Trustee, the depositor, the sponsor and their affiliates have not verified, have not undertaken to verify, and will not verify, the content of any such underlying security guarantor financial statements or Underlying Security Issuer Exchange Act Reports.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1114(b)(2). CREDIT ENHANCEMENT AND OTHER SUPPORT, EXCEPT CERTAIN DERIVATIVES INSTRUMENTS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>None</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1115(b). CERTAIN DERIVATIVES INSTRUMENTS &#8211; FINANCIAL INFORMATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1117. LEGAL PROCEEDINGS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">None</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1119. AFFILIATIONS AND CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Morgan Stanley &amp; Co. International plc, which is the derivative counterparty to the SATURNS 2010-02 (BAC) Trust under a call option transaction, is an affiliate of the Depositor, MS Structured Asset Corp.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1122. COMPLIANCE WITH APPLICABLE SERVICING CRITERIA</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">See Exhibits 33.1 and 34.1 to this Annual Report.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 1123. SERVICER COMPLIANCE STATEMENT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">See Exhibit 35.1 to this Annual Report.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">PART IV</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES</font></div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(a) The following documents are filed as part of this Report:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(1) Financial Statements: Distribution Reports on Form 10-D are hereby incorporated by reference. See the table below:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div align="left">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="11%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SATURNS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Trust No.:</font></div>
+</td>
+<td valign="top" width="12%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Closing Date</font></div>
+</td>
+<td valign="top" width="23%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Collateral</font></div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Payment Dates</font></div>
+</td>
+<td valign="top" width="24%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Form 10-D Filing Dates </font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">For FY 2011</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="11%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2010-02 (BAC)</font></div>
+</td>
+<td valign="top" width="12%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">10/20/2010</font></div>
+</td>
+<td align="left" valign="top" width="23%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Bank of America Corporation</font></div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">January 3 and July 1</font></div>
+</td>
+<td valign="top" width="24%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">January 5, 2011, July 8, 2011</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>(2) Financial Statement Schedules pursuant to Item 8: Not Applicable</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(3) Exhibits: </font>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 31.1</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Rule 13a-14(d) Certification</font></div>
+</td>
+</tr></table>
+</div>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 33.1</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Report of <font style="DISPLAY: inline; FONT-SIZE: 10pt">The Bank of New York Mellon </font>on Assessment of Compliance with Servicing Criteria for Asset-Backed Securities</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 34.1</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Attestation Report of <font style="DISPLAY: inline; FONT-SIZE: 10pt">KPMG, LLP</font> on Assessment of Compliance with Servicing Criteria for Asset-Backed Securities</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 35.1</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Statement of Compliance of The Bank of New York Mellon, as Trustee</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><br>
+</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(b) Exhibits: See Item 15(a)(3) above</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><br>
+</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(c) Other Financial Statement Schedules: Not applicable</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><br>
+</font>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><br>
+</font>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></font></div>
+</div>
+</div>
+
+<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><br>
+</font>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SIGNATURES</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the requirements of Section&#160;13 or&#160;15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><br>
+</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Date:&#160;&#160;March 29, 2012</font></font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">MS STRUCTURED ASSET CORP.</font></font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Registrant)</font></font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td nowrap width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;By:&#160;<font style="TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline">/s/In-Young Chase</font>&#160;&#160;&#160;&#160; &#160;</font></font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;Name:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;In-Young Chase</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Title:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Vice President</font></font></font></td>
+</tr></table>
+</div>
+
+<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><br>
+</font></div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>saturns10k2010-2_ex311.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb Steen and Hamilton LLP-->
+    <!--Document Created using EDGARizer 2020 5.4.1.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: arial; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 31.1</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">RULE 13a-14(d) Certification</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">I, In-Young Chase, certify that:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 4.5pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I have reviewed this report on Form 10&#8211;K and all reports on Form 10&#8211;D required to be filed in respect of the period covered by this report on Form 10&#8211;K of SATURNS Trust No. 2010-02 (BAC) (the &#8220;Exchange Act periodic reports&#8221;);</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Based on my knowledge, the Exchange Act periodic reports, taken as a whole, do not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Based on my knowledge, all of the distribution, servicing and other information required to be provided under Form 10&#8211;D for the period covered by this report is included in the Exchange Act periodic reports;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Based on my knowledge and the servicer compliance statement(s) required in this report under Item 1123 of Regulation AB, and except as disclosed in the Exchange Act periodic reports, the servicer, The Bank of New York Mellon, as Trustee of SATURNS Trust No. 2010-02 (BAC), has fulfilled its obligations under the servicing agreement, which is the Trust Agreement relating to SATURNS Trust No. 2010-02 (BAC); and</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">5.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;All of the reports on assessment of compliance with servicing criteria for asset-backed securities and their related attestation reports on assessment of compliance with servicing criteria for asset-backed securities required to be included in this report in accordance with Item 1122 of Regulation AB and Exchange Act Rules 13a&#8211;18 and 15d&#8211;18 have been included as an exhibit to this report, except as otherwise disclosed in this report. Any material instances of noncompliance described in such reports have been disclosed in this report on Form 10&#8211;K.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties: The Bank of New York Mellon and its officers and agents.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td nowrap width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;By:&#160;<font style="TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline">/s/In-Young Chase</font>&#160;&#160;&#160;&#160; &#160;</font></font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;Name:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;In-Young Chase</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Title:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Vice President</font></font></font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Date:&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160; <font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: normal">March 29, 2012</font></font></font></font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-33.1
+<SEQUENCE>3
+<FILENAME>saturns10kex331.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb Steen and Hamilton LLP-->
+    <!--Document Created using EDGARizer 2020 5.4.1.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">Exhibit 33.1</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">[Letterhead of BNY Mellon]</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ASSERTION OF COMPLIANCE WITH</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">APPLICABLE SERVICING CRITERIA</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Bank of New York Mellon (formerly The Bank of New York), BNY Mellon Trust of Delaware (formerly BNYM (Delaware)) and The Bank of New York Mellon Trust Company, N.A. (formerly The Bank of New York Trust Company, N.A.), (collectively, the &#8220;Company&#8221;) provides this platform-level assessment of compliance with the servicing criteria specified in Item 1122(d) of Regulation AB promulgated by the Securities and Exchange Commission.&#160;&#160;Management has determined that the servicing criteria are applicable in regard to the servicing platform as of and for the period as follows:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Platform</font>: Publicly-issued (i.e., transaction-level reporting initially required under the Securities Exchange Act of 1934, as amended) asset-backed securities issued on or after January 1, 2006 and like-kind transactions issued prior to January 1, 2006 that are subject to Regulation AB for which the Company provides trustee, securities administration or paying agent services, as defined and to the extent applicable in the transaction agreements, other than residential mortgage-backed securities and other mortgage-related asset-backed securities.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Period</font>:&#160;&#160;Twelve months ended December 31, 2011 (the &#8220;Period&#8221;).</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Applicable Servicing Criteria</font>: All servicing criteria set forth in Item 1122(d), to the extent required by the related transaction agreements as to any transaction, except as set forth in the column titled &#8220;Not Applicable To Platform&#8221; in Appendix 1 attached hereto.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">With respect to applicable servicing criteria 1122(d)(2)(iii) and 1122(d)(4)(vii), there were no activities performed during the Period with respect to the Platform, because there were no occurrences of events that would require the Company to perform such activities.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">With respect to servicing criteria 1122(d)(2)(vi) management has engaged a vendor to perform the activities required by these servicing criteria.&#160;&#160;Management has determined that this vendor is not considered a &#8220;servicer&#8221; as defined in Item 1101(j) of Regulation AB, and management has elected to take responsibility for assessing compliance with the servicing criteria applicable to this vendor as permitted by Interpretation 17.06 of the SEC Division of Corporation Finance Manual of Publicly Available Telephone Interpretations (&#8220;Interpretation 17.06&#8221;).&#160;&#160;Management has policies and procedures in place designed to provide reasonable assurance that the vendor&#8217;s activities comply in all material respects with the servicing criteria applicable to the vendor.&#160;&#160;Management is solely responsible for determining that it meets the SEC requirements to apply Interpretation 17.06 for the vendor and related criteria.</font></div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">With respect to the Platform and the Period, the Company provides the following assessment of compliance in respect of the Applicable Servicing Criteria:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1.&#160;&#160;The Company is responsible for assessing its compliance with the Applicable Servicing Criteria.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2.&#160;&#160;The Company has assessed compliance with the Applicable Servicing Criteria including servicing criteria for which compliance is determined based on Interpretation 17.06 as described above.&#160;&#160;In performing this assessment, management used the criteria set forth by the Securities and Exchange Commission in paragraph (d) of Item 1122 of Regulation AB.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3.&#160;&#160;Based on such assessment, as of and for the Period, the Company has complied, in all material respects, with the Applicable Servicing Criteria.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">KPMG LLP, an independent registered public accounting firm, has issued an attestation report with respect to the Company&#8217;s compliance with the Applicable Servicing Criteria as of and for the Period.</font></div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="50%">
+<div><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Bank of New York Mellon</font></div>
+
+<div><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Bank of New York Mellon Trust&#160;Company, N.A.&#160;</font></div>
+
+<div>BNY Mellon Trust of Delaware</div>
+
+<div>&#160;</div>
+</td>
+<td valign="top" width="50%">
+<div><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Bank of New York Mellon </font></div>
+
+<div><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Bank of New York Mellon Trust Company, N.A.</font></div>
+
+<div>&#160;</div>
+</td>
+</tr><tr>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="TEXT-DECORATION: underline">/</font><font style="DISPLAY: inline; TEXT-DECORATION: underline"><font style="TEXT-DECORATION: underline">s</font>/ Robert L. Griffin</font></font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">/s/ Richard P. Stanley</font></font></td>
+</tr><tr>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline">Robert L. Griffin</font></font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;Richard P. Stanley</font></td>
+</tr><tr>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;Authorized Signatory</font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;Authorized Signatory</font></td>
+</tr><tr>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Bank of New York Mellon</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td nowrap width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Bank of New York Mellon Trust <font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Company, N.A.</font></font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="33%">
+<div><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;/s/ Alex P. Tsarnas</font></font></font></div>
+
+<div>Alex P. Tsarnas</div>
+
+<div>Authorized Signatory</div>
+</td>
+<td width="33%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Dated:&#160;&#160;&#160;February 28, 2012</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Appendix 1</font></div>
+</div>
+</div>
+</div>
+
+<br>
+<div align="left">
+<div align="left">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td rowspan="2" valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><a name="range!b1:f40"><!--efplaceholder--></a>REG AB REFERENCE</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SERVICING CRITERIA</font></div>
+</td>
+<td colspan="2" valign="bottom" width="39%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">APPLICABLE TO PLATFORM</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NOT APPLICABLE TO PLATFORM</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed Directly by the Company</font></div>
+</td>
+<td valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed by Vendor(s) for which the Company is the Responsible Party</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">General Servicing Considerations</font></div>
+</td>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(1)(i)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Policies and procedures are instituted to monitor any performance or other triggers and events of default in accordance with the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(1)(ii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">If any material servicing activities are outsourced to third parties, policies and procedures are instituted to monitor the third party&#8217;s performance and compliance with such servicing activities.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(1)(iii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Any requirements in the transaction agreements to maintain a back-up servicer for the pool assets are maintained.</font></div>
+</td>
+<td align="left" valign="top" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(1)(iv)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">A fidelity bond and errors and omissions policy is in effect on the party participating in the servicing function throughout the reporting period in the amount of coverage required by and otherwise in accordance with the terms of the transaction agreements.</font></div>
+</td>
+<td align="left" valign="top" width="16%" style="BORDER-BOTTOM: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 1pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Cash Collection and Administration</font></div>
+</td>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(2)(i)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Payments on pool assets are deposited into the appropriate custodial bank accounts and related bank clearing accounts no more than two business days of receipt, or such other number of days specified in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(2)(ii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Disbursements made via wire transfer on behalf of an obligor or to an investor are made only by authorized personnel.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(2)(iii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Advances of funds or guarantees regarding collections, cash flows or distributions, and any interest or other fees charged for such advances, are made, reviewed and approved as specified in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(2)(iv)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The related accounts for the transaction, such as cash reserve accounts or accounts established as a form of over collateralization, are separately maintained (e.g., with respect to commingling of cash) as set forth in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(2)(v)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Each custodial account is maintained at a federally insured depository institution as set forth in the transaction agreements. For purposes of this criterion, &#8220;federally insured depository institution&#8221; with respect to a foreign financial institution means a foreign financial institution that meets the requirements of Rule 240.13k-1(b)(1) of the Securities Exchange Act.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(2)(vi)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Unissued checks are safeguarded so as to prevent unauthorized access.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+
+<div><br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Appendix 1</font></div>
+</div>
+</div>
+</div>
+
+<br>
+<br>
+<div align="left">
+<div align="left">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td rowspan="2" valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><a name="range!b1:f40"><!--efplaceholder--></a>REG AB REFERENCE</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SERVICING CRITERIA</font></div>
+</td>
+<td colspan="2" valign="bottom" width="39%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">APPLICABLE TO PLATFORM</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NOT APPLICABLE TO PLATFORM</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed Directly by the Company</font></div>
+</td>
+<td valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed by Vendor(s) for which the Company is the Responsible Party</font></div>
+</td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div align="left">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(2)(vii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Reconciliations are prepared on a monthly basis for all asset-backed securities related bank accounts, including custodial accounts and related bank clearing accounts. These reconciliations are (A) mathematically accurate; (B) prepared within 30 calendar days after the bank statement cutoff date, or such other number of days specified in the transaction agreements; (C) reviewed and approved by someone other than the person who prepared the reconciliation; and (D) contain explanations for reconciling items. These reconciling items are resolved within 90 calendar days of their original identification, or such other number of days specified in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 1pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Investor Remittances and Reporting</font></div>
+</td>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(3)(i)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Reports to investors, including those to be filed with the Commission, are maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports (A) are prepared in accordance with timeframes and other terms set forth in the transaction agreements; (B) provide information calculated in accordance with the terms specified in the transaction agreements; (C) are filed with the Commission as required by its rules and regulations; and (D) agree with investors&#8217; or the trustee&#8217;s records as to the total unpaid principal balance and number of pool assets serviced by the Servicer.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(3)(ii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Amounts due to investors are allocated and remitted in accordance with timeframes, distribution priority and other terms set forth in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(3)(iii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Disbursements made to an investor are posted within two business days to the Servicer&#8217;s investor records, or such other number of days specified in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(3)(iv)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Amounts remitted to investors per the investor reports agree with cancelled checks, or other form of payment, or custodial bank statements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 1pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Pool Asset Administration</font></div>
+</td>
+<td align="left" valign="bottom" width="16%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="26%" style="TEXT-ALIGN: left; BORDER-LEFT: medium none; BORDER-RIGHT: medium none"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(i)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Collateral or security on pool assets is maintained as required by the transaction agreements or related pool asset documents.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(ii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Pool asset and related documents are safeguarded as required by the transaction agreements</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(iii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Any additions, removals or substitutions to the asset pool are made, reviewed and approved in accordance with any conditions or requirements in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+
+<br>
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">5</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Appendix 1</font></div>
+</div>
+</div>
+</div>
+
+<br>
+<div align="left">
+<div align="left">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td rowspan="2" valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><a name="range!b1:f40"><!--efplaceholder--></a>REG AB REFERENCE</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SERVICING CRITERIA</font></div>
+</td>
+<td colspan="2" valign="bottom" width="39%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">APPLICABLE TO PLATFORM</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NOT APPLICABLE TO PLATFORM</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed Directly by the Company</font></div>
+</td>
+<td valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed by Vendor(s) for which the Company is the Responsible Party</font></div>
+</td>
+</tr></table>
+</div>
+</div>
+
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(iv)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Payments on pool assets, including any payoffs, made in accordance with the related pool asset documents are posted to the Servicer&#8217;s obligor records maintained no more than two business days after receipt, or such other number of days specified in the transaction agreements, and allocated to principal, interest or other items (e.g., escrow) in accordance with the related pool asset documents.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(v)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">The Servicer&#8217;s records regarding the pool assets agree with the Servicer&#8217;s records with respect to an obligor&#8217;s unpaid principal balance.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(vi)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Changes with respect to the terms or status of an obligor's pool assets (e.g., loan modifications or re-agings) are made, reviewed and approved by authorized personnel in accordance with the transaction agreements and related pool asset documents.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(vii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Loss mitigation or recovery actions (e.g., forbearance plans, modifications and deeds in lieu of foreclosure, foreclosures and repossessions, as applicable) are initiated, conducted and concluded in accordance with the timeframes or other requirements established by the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(viii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Records documenting collection efforts are maintained during the period a pool asset is delinquent in accordance with the transaction agreements. Such records are maintained on at least a monthly basis, or such other period specified in the transaction agreements, and describe the entity&#8217;s activities in monitoring delinquent pool assets including, for example, phone calls, letters and payment rescheduling plans in cases where delinquency is deemed temporary (e.g., illness or unemployment).</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(ix)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Adjustments to interest rates or rates of return for pool assets with variable rates are computed based on the related pool asset documents.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(x)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Regarding any funds held in trust for an obligor (such as escrow accounts): (A) such funds are analyzed, in accordance with the obligor&#8217;s pool asset documents, on at least an annual basis, or such other period specified in the transaction agreements; (B) interest on such funds is paid, or credited, to obligors in accordance with applicable pool asset documents and state laws; and (C) such funds are returned to the obligor within 30 calendar days of full repayment of the related pool assets, or such other number of days specified in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr></table>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">6</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Appendix 1</font></div>
+</div>
+</div>
+</div>
+
+<br>
+<br>
+<div align="left">
+<div align="left">
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td rowspan="2" valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><a name="range!b1:f40"><!--efplaceholder--></a>REG AB REFERENCE</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">SERVICING CRITERIA</font></div>
+</td>
+<td colspan="2" valign="bottom" width="39%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">APPLICABLE TO PLATFORM</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">NOT APPLICABLE TO PLATFORM</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed Directly by the Company</font></div>
+</td>
+<td valign="bottom" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Performed by Vendor(s) for which the Company is the Responsible Party</font></div>
+</td>
+</tr></table>
+</div>
+</div>
+
+<table cellpadding="3" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(xi)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Payments made on behalf of an obligor (such as tax or insurance payments) are made on or before the related penalty or expiration dates, as indicated on the appropriate bills or notices for such payments, provided that such support has been received by the Servicer at least 30 calendar days prior to these dates, or such other number of days specified in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(xii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Any late payment penalties in connection with any payment to be made on behalf of an obligor are paid from the Servicer&#8217;s funds and not charged to the obligor, unless the late payment was due to the obligor&#8217;s error or omission.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(xiii)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Disbursements made on behalf of an obligor are posted within two business days to the obligor&#8217;s records maintained by the Servicer, or such other number of days specified in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(xiv)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Delinquencies, charge-offs and uncollectible accounts are recognized and recorded in accordance with the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 0.5pt solid; BORDER-RIGHT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1122(d)(4)(xv)</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Any external enhancement or other support, identified in Item 1114(a)(1) through (3) or Item 1115 of Regulation AB, is maintained as set forth in the transaction agreements.</font></div>
+</td>
+<td valign="middle" width="16%" style="BORDER-BOTTOM: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">X</font></div>
+</td>
+<td align="left" valign="top" width="26%" style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 0.5pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="15%" style="BORDER-BOTTOM: black 1pt solid; BORDER-RIGHT: black 1pt solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+7</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-34.1
+<SEQUENCE>4
+<FILENAME>saturns10kex341.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb Steen and Hamilton-->
+    <!--Document Created using EDGARizer 2020 5.4.1.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: arial; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 34.1</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[Letterhead of KPMG, LLP]</font></div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Report of Independent Registered Public Accounting Firm</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Board of Directors:</font></div>
+
+<div>
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Bank of New York Mellon</font></div>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">BNY Mellon Trust of Delaware</font></div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Bank of New York Mellon Trust Company, N.A.:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">We have examined the accompanying management&#8217;s assertion that The Bank of New York Mellon (formerly The Bank of New York), BNY Mellon Trust of Delaware (formerly BNYM (Delaware) and The Bank of New York Mellon Trust Company, N.A. (formerly The Bank of New York Trust, Company, N.A.), (collectively, the &#8220;Company&#8221;) complied with the servicing criteria set forth in Item 1122(d) of the Securities and Exchange Commission&#8217;s Regulation AB for the publicly issued (i.e. transaction-level reporting initially required under the Securities and Exchange Act of 1934, as amended) asset-backed securities issued on or after January 1, 2006 and like-kind transactions issued prior to January 1, 2006 that are subject to Regulation AB for which the Company provides trustee, securities administration or paying agent services, as defined and to the extent applicable in the transaction agreements, other than residential mortgage-backed securities and other mortgage-related asset-backed securities (the Platform), except for servicing criteria 1122(d)(1)(iii), 1122(d)(1)(iv), 1122(d)(4)(vi), 1122(d)(4)(viii), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xii), 1122(d)(4)(xiii) and 1122(d)(4)(xiv), which the Company has determined are not applicable to the activities it performs with respect to the Platform, as of and for the twelve months ended December 31, 2011.&#160;&#160;With respect to applicable servicing criteria 1122(d)(2)(iii) and 1122(d)(4)(vii), the Company&#8217;s Assertion of Compliance with Applicable Servicing Criteria indicates that there were no activities performed as of and for the twelve months ended December 31, 2011.&#160;&#160;Management is responsible for the Company&#8217;s compliance with the servicing criteria. Our responsibility is to express an opinion on management&#8217;s assessment about the Company&#8217;s compliance based on our examination.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Our examination was conducted in accordance with the standards of the Public Company Accounting Oversight Board (United States)<font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160;</font>and, accordingly, included examining, on a test basis, evidence about the Company&#8217;s compliance with the servicing criteria specified above and performing such other procedures as we considered necessary in the circumstances.&#160;&#160;Our examination included testing selected asset-backed transactions and securities that comprise the Platform, testing selected servicing activities related to the Platform, and determining whether the Company processed those selected transactions and performed those selected activities in compliance with the servicing criteria.&#160;&#160;Furthermore, our procedures were limited to the selected transactions and servicing activities performed by the Company during the period covered by this report.&#160;&#160;Our procedures were not designed to determine whether errors may have occurred either prior to or subsequent to our tests that may have affected the balances or amounts calculated or reported by the Company during the period covered by this report for the selected transactions or any other transactions. We believe that our examination provides a reasonable basis for our opinion.&#160;&#160;Our examination does not provide a legal determination on the Company&#8217;s compliance with the servicing criteria.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">As described in the accompanying Assertion of Compliance with Applicable Servicing Criteria, for servicing criterion 1122 (d)(2)(vi), the Company has engaged a vendor to perform the activities required by this servicing criteria. The Company has determined that this vendor is not considered a &#8220;servicer&#8221; as defined in Item 1101(j) of Regulation AB, and the Company has elected to take responsibility for assessing compliance with the servicing criteria applicable to this vendor as permitted by Interpretation 17.06 of the SEC Division of Corporation Finance Manual of Publicly Available Telephone Interpretations (&#8220;Interpretation 17.06&#8221;).&#160;&#160;As permitted by Interpretation 17.06, the Company has asserted that it has policies and procedures in place designed to provide reasonable assurance that the vendor&#8217;s activities comply in all material respects with the servicing criteria applicable to the vendor. The Company is solely responsible for determining that it meets the SEC requirements to apply Interpretation 17.06 for the vendor and related criteria as described in its assertion, and we performed no procedures with respect to the Company&#8217;s eligibility to apply Interpretation 17.06.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In our opinion, management&#8217;s assessment that the Company complied with the aforementioned servicing criteria, including servicing criterion 1122(d)(2)(vi) for which compliance is determined based on Interpretation 17.06 as described above, as of and for the twelve months ended December 31, 2011 is fairly stated, in all material respects.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Signed) KPMG, LLP</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Chicago, Illinois</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">February 28, 2012</font></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-35.1
+<SEQUENCE>5
+<FILENAME>saturns10k2010-2_ex351.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb Steen and Hamilton-->
+    <!--Document Created using EDGARizer 2020 5.4.1.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 35.1</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Statement of Compliance of The Bank of New York Mellon, as Trustee.<a name="ServicerComplianceStatementOfDeer_212740"><!--EFPlaceholder--></a></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">I, Pierre Boutros,&#160;Vice President of The Bank of New York Mellon, a New York corporation (the &#8220;Trustee&#8221;), state:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(a) A review of the Trustee&#8217;s activities for the period from January 1, 2011 through December 31, 2011 (the &#8220;Reporting Period&#8221;) and of the Trustee&#8217;s performance under the Standard Terms for Trust Agreements dated July 15, 2010 between MS Structured Asset Corp. as depositor (the &#8220;Depositor&#8221;) and the Trustee, as trustee and securities intermediary, in each case amended by a series supplement between the Depositor and the Trustee (as amended in each such case, the &#8220;Trust Agreement&#8221;), has been made under my supervision.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(b)&#160;&#160;To the best of my knowledge and based on such review, the Trustee has fulfilled all of its obligations under the Trust Agreement in all material respects throughout the Reporting Period for <font style="DISPLAY: inline">Step Up Callable Trust Units Series 2010-02 (BAC). </font></font>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline"><br>
+</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline">&#160;</font></font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="43%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="43%">
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline">The Bank of New York Mellon, as Trustee</font></font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="43%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td align="left" valign="top" width="43%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="33%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Date:&#160;March 2, 2012</font></div>
+</td>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="43%" style="BORDER-BOTTOM: black 1pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">/s/Pierre Boutros</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="43%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Pierre Boutros</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="43%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Vice President</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline"><br>
+</font></font></div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

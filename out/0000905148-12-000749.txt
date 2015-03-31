@@ -1,0 +1,502 @@
+0000905148-12-000749.txt : 20120314
+0000905148-12-000749.hdr.sgml : 20120314
+20120314135343
+ACCESSION NUMBER:		0000905148-12-000749
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20111231
+FILED AS OF DATE:		20120314
+DATE AS OF CHANGE:		20120314
+FILER:
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BEAR STEARNS DEPOSITOR INC TRUST CERTIFICATE SERIES 2001-2
+		CENTRAL INDEX KEY:			0001144503
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-58504-02
+		FILM NUMBER:		12689850
+	BUSINESS ADDRESS:	
+		STREET 1:		245 PARK AVE.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10167
+	MAIL ADDRESS:	
+		STREET 1:		245 PARK AVE.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10167
+10-K
+1
+efc12-285_form10k.htm
+    
+    
+    
+    
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+____
+ 
+FORM 10-K
+ 
+(Mark One)
+ 
+  
+x   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the fiscal year ended December 31, 2011
+or
+ 
+o  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURI TIES EXCHANGE ACT OF 1934
+ 
+For the transition period from ________ to ________
+Commission File Number:                                                      333-58504-02
+ 
+ 
+Bear Stearns Depositor Inc.,
+on behalf of:
+ 
+ 
+Trust Certificates (TRUCs), Series 2001-2 Trust
+ 
+ 
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+  
+ 
+  
+New York
+ 
+13-7295550
+(State or Other Jurisdiction of Incorporation or Organization)
+ 
+(I.R.S. Employer Identification No.)
+  
+ 
+  
+c/o U.S. Bank Trust National Association
+100 Wall Street, Suite 1600
+New York, New York
+ 
+10005
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code:   (212)-623-0069
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+  
+  
+Title of Class
+Name of Registered Exchange
+Trust Certificates (TRUCs), Series 2001-2, Class A-1
+New York Stock Exchange (“NYSE”)
+ 
+  
+1
+  
+Securities registered pursuant to Section 12(g) of the Act:   None.
+ 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+ 
+¨ Yes   ý No
+ 
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+ 
+¨ Yes   ý No  
+ 
+Indicate by check mark whether the registrant: (1) Has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to file requirements for the past 90 days.
+Yes    ý     No  o
+ 
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes    ý    No   o
+ 
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.   ý
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company.  See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.  (Check one):
+   
+Large accelerated filer ¨                Accelerated filer ¨               Non-accelerated filer ý                 Smaller reporting company ¨
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+ 
+¨ Yes   ý No
+ 
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant’s most recently completed second fiscal quarter:
+ 
+NOT APPLICABLE.
+ 
+The Registrant has no voting stock or class of common stock outstanding as of the date of this report.
+ 
+ 
+ 
+ 
+DOCUMENTS INCORPORATED BY REFERENCE
+ 
+The following documents are incorporated by reference into Part IV of this Annual Report: The distribution reports to security holders filed on Form 8-K during the fiscal year, in lieu of reports on Form 10-Q, which include the reports filed on Form 8-K listed in Item 15(a) hereto.
+ 
+Introductory Note
+ 
+The registrant is the depositor under the trust agreement for the TRUCs Certificates referenced above which are listed on the New York Stock Exchange.  The certificates represent interests only in the Trust Certificates (TRUCs), Series 2001-2 Trust and do not represent obligations of or interests in the depositor.  The Underlying Securities for the trust are $1,500,000 principal amount of International Business Machines Corporation 7.125% Debentures due December 1, 2096. Pursuant to staff administrative positions established in Corporate Asset Backed Corporation (available August 9, 1995), registrant is not required to respond to various items of Form 10-K.  Such items are designated herein as “Not Applicable.” Distribution reports detailing receipts and distributions by the trust are filed after each distribution date on Form 8-K in lieu of reports on Form 10-Q.
+ 
+ 
+ 
+  
+2
+  
+ 
+International Business Machines Corporation (the “Underlying Securities Issuer”) is subject to the information reporting requirements of the Securities Exchange Act of 1934 (the “Exchange Act”).  For information on the Underlying Securities Issuer, refer to the current and periodic reports required to be filed pursuant to the Exchange Act by the Underlying Securities Issuer under its Exchange Act file number, 1-2360. The Securities and Exchange Commission (the “Commission”) maintains a site on the World Wide Web at “http://www.sec.gov” at which users can view and download copies of reports, proxy and information statements and other information filed electronically through the Electronic Data Gathering, Analysis and Retrieval (EDGAR) system. Periodic and current reports and other information required to be filed pursuant to the Exchange Act by the Underlying Securities Issuer may be accessed on this site. Neither Bear Stearns Depositor Inc. nor the Trustee has participated in the preparation of such reporting documents, or made any due diligence investigation with respect to the information provided therein. Neither Bear Stearns Depositor Inc. nor the Trustee has verified the accuracy or completeness of such documents or reports. There can be no assurance that events affecting the Underlying Securities Issuer or the Underlying Securities have not occurred or have not yet been publicly disclosed which would affect the accuracy or completeness of the publicly available documents described above.
+ 
+ 
+  
+3
+  
+PART I
+ 
+Item 1. Business .
+Not Applicable
+ 
+Item 1A. Risk Factors .
+ 
+Not Applicable
+ 
+Item 1B. Unresolved Staff Comments .
+ 
+None
+ 
+Item 2.  Properties .
+Not Applicable
+ 
+Item 3.  Legal Proceedings .
+None
+ 
+Item 4.  Mine Safety Disclosures.
+  
+None
+ 
+PART II
+ 
+Item 5.   Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+ 
+The Trust Certificates (TRUCs), Series 2001-2, Class A-1 certificates are represented by one or more physical certificates registered in the name of “Cede & Co.”, the nominee of The Depository Trust Company. The certificates are listed on the New York Stock Exchange.
+ 
+Item 6.  Selected Financial Data.
+  
+Not Applicable
+  
+ 
+Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+  
+Not Applicable
+  
+ 
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+  
+Not Applicable
+  
+ 
+Item 8.  Financial Statements and Supplementary Data.
+  
+Not Applicable
+  
+ 
+Item 9.  Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+  
+None
+  
+ 
+Item 9A.  Controls and Procedures.
+  
+Not Applicable
+  
+ 
+Item 9B.  Other Information.
+  
+None
+ 
+  
+ 
+ 
+PART III
+ 
+Item 10.  Directors, Executive Officers and Corporate Governance.
+  
+Not Applicable
+  
+ 
+Item 11.  Executive Compensation.
+  
+Not Applicable
+ 
+ 
+  
+4
+  
+ 
+Item 12.  Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+  
+None
+  
+ 
+Item 13.  Certain Relationships and Related Transactions, and Director Independence.
+  
+None
+  
+ 
+Item 14.  Principal Accounting Fees and Services.
+  
+None
+ 
+  
+ 
+ 
+PART IV
+ 
+Item 15.  Exhibits, Financial Statement Schedules.
+  
+ 
+ 
+(a)      The following documents have been filed as part of this report.
+ 
+ 
+1.
+Trustee’s Distribution Statements documented on Form 8-K regarding the distributions from the Trust Certificates (TRUCs), Series 2001-2 Trust to the certificateholders for the period from January 1, 2011 through and including December 31, 2011 have been filed with the Securities and Exchange Commission and are hereby incorporated by reference.  Filing dates are listed below:
+ 
+Date of Report
+Event
+Date Filed
+June 1, 2011
+Distribution Date
+June 13, 2011
+December 1, 2011
+Distribution Date
+December 8, 2011
+ 
+  
+2.
+None.
+ 
+  
+3.
+Exhibits:
+ 
+31.1 - Rule 13a-14(a)/15d-14(a) (Section 302 Certification).
+ 
+99.1 - Annual Compliance Report by Trustee.
+ 
+99.2 - Registrant’s Current Report on Form 8-K filed with the Securities and Exchange Commission on June 13, 2011, as further described in Item 15(a)(1) above, is incorporated herein by reference.
+ 
+99.3 - Registrant’s Current Report on Form 8-K filed with the Securities and Exchange Commission on December 8, 2011, as further described in Item 15(a)(1) above, is incorporated herein by reference.
+  
+ 
+ 
+(b)      See Item 15 (a) above.
+  
+ 
+ 
+(c)      Not Applicable.
+  
+ 
+ 
+ 
+  
+5
+  
+ 
+SIGNATURE
+ 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+Bear Stearns Depositor Inc., acting on behalf of Trust
+Certificates (TRUCs), Series 2001-2 Trust
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By: /s/ Anthony J. Horan
+ 
+ 
+ 
+ 
+Name:  Anthony J. Horan
+ 
+ 
+ 
+ 
+Title:  Chief Executive Officer/President
+ 
+ 
+ 
+ 
+Date:   March 13, 2012
+ 
+ 
+ 
+  
+6
+  
+EXHIBIT INDEX
+ 
+Reference Number per Item 601 of Regulation SK
+Description of Exhibits
+Exhibit Number in this
+ Form 10-K
+(31.1)
+Rule 13a-14(a)/15d-14(a) (Section 302 Certification).
+31.1
+(99.1)
+Annual Compliance Report by Trustee.
+99.1
+(99.2)
+Registrant’s Current Report on Form 8-K filed with the Securities and Exchange Commission on June 13, 2011, as further described in Item 15(a)(1) above, is incorporated herein by reference.
+99.2
+(99.3)
+Registrant’s Current Report on Form 8-K filed with the Securities and Exchange Commission on December 8, 2011, as further described in Item 15(a)(1) above, is incorporated herein by reference.
+99.3
+ 7
+ 
+ 
+ 
+EX-31.1
+2
+efc12-285_ex311.htm
+    
+    
+    
+    
+Exhibit 31.1
+ 
+ 
+CERTIFICATION
+ 
+I,  Anthony J. Horan, certify that:
+ 
+1.  
+I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports filed in respect of periods included in the year covered by this annual report, of Trust Certificates (TRUCs), Series 2001-2 Trust;
+ 
+2.  
+Based on my knowledge, the information in these reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report;
+ 
+3.  
+Based on my knowledge, the distribution or servicing information required to be provided to the depositor by the trustee under the pooling and servicing, or similar, agreement for inclusion in these reports is included in these reports; and
+ 
+4.  
+I am responsible for reviewing the activities performed by the depositor and the trustee under the trust agreement and based upon my knowledge and the annual compliance review required under that agreement, and except as disclosed in the reports, the depositor and the trustee have each fulfilled its obligations under that agreement.
+ 
+In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties: U.S. Bank Trust National Association, as trustee, and its officers and agents.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By: /s/ Anthony J. Horan
+ 
+ 
+ 
+ 
+Name:  Anthony J. Horan
+ 
+ 
+ 
+ 
+Title:  Chief Executive Officer/President,
+ 
+ 
+ 
+ 
+Bear Stearns Depositor Inc.
+ 
+ 
+ 
+ 
+Date:   March 13, 2012
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+ 
+EX-99.1
+3
+efc12-285_ex991.htm
+    
+    
+    
+    
+Exhibit 99.1
+ 
+CERTIFICATION
+ 
+The undersigned, the trustee (the “Trustee”) in respect of the Trust Certificates (TRUCs) Series 2001-2, hereby certifies to Bear Stearns Depositor Inc. as follows:
+ 
+1.  
+I have reviewed the annual report on Form 10-K and all reports on Form 8-K filed by U.S. Bank Trust National Association, solely as Trustee for the Trust Certificates (TRUCs) Series 2001-2 Trust and any distribution reports filed in respect of the Trust during the 2011 calendar year;
+ 
+2.  
+The information in those reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, no misleading as of the last day of the period covered by the annual report;
+ 
+3.  
+The distribution or servicing information required to be provided to the depositor by the Trustee under the trust agreement for inclusion in these reports is included in such reports; and
+ 
+4.  
+I am responsible for reviewing the activities performed by the Trustee under the trust agreement and except as disclosed in these reports, the Trustee has fulfilled its obligations under the trust agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+U.S. BANK TRUST NATIONAL ASSOCIATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By: /s/ David J. Kolibachuk
+ 
+ 
+ 
+ 
+Name:  David J. Kolibachuk
+ 
+ 
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+Date:   March 13, 2012
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9
+ 

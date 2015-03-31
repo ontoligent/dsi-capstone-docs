@@ -1,0 +1,1057 @@
+0000903423-12-000191.txt : 20120329
+0000903423-12-000191.hdr.sgml : 20120329
+20120329113801
+ACCESSION NUMBER:		0000903423-12-000191
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20111231
+FILED AS OF DATE:		20120329
+DATE AS OF CHANGE:		20120329
+FILER:
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MS STRUCTURED SATURNS SERIES 2005-1
+		CENTRAL INDEX KEY:			0001311437
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32388
+		FILM NUMBER:		12722839
+	BUSINESS ADDRESS:	
+		STREET 1:		1585 BROADWAY
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		2127611715
+10-K
+1
+saturns10k2005-1.htm
+    
+    
+    
+    
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C.  20549
+__________
+FORM 10-K
+ 
+FOR ANNUAL AND TRANSITION REPORTS
+PURSUANT TO SECTIONS 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+ 
+(Mark One)
+[X]           ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+ 
+For the fiscal year ended December 31, 2011
+ 
+OR
+ 
+[  ]           TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+ 
+For the transition period from __________ to __________
+ 
+Commission File Numbers 333-101155, 001-32388
+ 
+MS STRUCTURED ASSET CORP.
+On   behalf of
+SATURNS Trust No. 2005-1
+ 
+ (Exact name of registrant as specified in its charter)
+ 
+  Delaware
+ 13-4026700 
+ (State or other jurisdiction of incorporation or organization) 
+ (IRS Employer Identification No.)
+ 
+ 
+ 
+ 
+1585 Broadway, Second Floor
+ 
+New York, New York 
+10036
+Attention: In-Young Chase
+ 
+(Address of principal executive office) 
+ (Zip Code)
+ 
+ 
+Registrant’s telephone number, including area code: 
+  (212) 761-2457
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+Title of Each Class
+Name of Each Exchange on Which Registered
+ 
+SATURNS Goldman Sachs Capital I Capital Security Backed Series 2005-1 Class A Callable Units
+ 
+ 
+ 
+New York Stock Exchange
+ 
+ 
+ 
+Securities registered pursuant to Section 12(g) of the Act:
+ 
+None
+ 
+  
+  
+  
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ___ No    X     
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. Yes ___ No    X   
+ 
+Indicate by check mark whether registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes   X     No        
+ 
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes ___ No ___
+ 
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  [    ]
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.  See definition of “accelerated filer and large accelerated filer” in Rule 12b-2 of the Exchange Act.  (Check one):
+ 
+Large accelerated filer ___    Accelerated filer ___   Non-accelerated filer   X       Smaller reporting company ___
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+Yes ___ No   X  
+ 
+All of the common stock of the registrant is held by Morgan Stanley.  As of March 26, 2012, 1,000 shares of common stock, par value $1.00 per share, were outstanding.
+ 
+DOCUMENTS INCORPORATED BY REFERENCE:
+ 
+The distribution reports to security holders filed on Form 8-K during the Fiscal Year in lieu of reports on Form 10-Q.
+ 
+Introductory Note
+The Registrant is the depositor under the trust agreements for its various SATURNS Units listed on the New York Stock Exchange.  The Units do not represent obligations of or interests in the Depositor. Pursuant to staff administrative positions established in various no-action letters, see e.g. Corporate Asset Backed Corporation (available August 9, 1995), the Registrant is not required to respond to various items of Form 10-K. Such items are designated herein as “Not applicable.”  Distribution reports detailing receipts and distributions by each trust are filed shortly after each distribution date on Form 8-K in lieu of reports on Form 10-Q.
+ 
+The underlying security issuer or guarantor, as applicable, of the securities held by each of the trusts is subject to the informational requirements of the Exchange Act.  The underlying security issuer or guarantor, as applicable, currently files reports, proxy statements and other information with the SEC.  For information regarding such underlying security issuer or guarantor, you should refer to such reports.  These periodic, current and other reports and other information can be inspected and copied at the public reference facilities maintained by the SEC at Room 1024, 100 F Street, N.E., Washington, D.C. 20549. Copies of those materials can be obtained by making a written request to the SEC, Public Reference Section, 100 F Street, N.E., Washington, D.C. 20549, at prescribed rates. The SEC also maintains a website on the internet at http://www.sec.gov at which users can view and download copies of reports, proxy, information statements and other information filed electronically.  In addition, those reports and other information may also be obtained from the underlying security issuer by making a request to the underlying security issuer.  The trust, the trustee, the Registrant, and their affiliates have not verified, have not undertaken to verify, and will not verify, the content of any such reports or information. The name and the central index key (CIK) for each underlying security issuer or guarantor is set forth below:
+ 
+Trust
+Underlying Security Issuer or Guarantor
+CIK
+2005-1
+Goldman Sachs Capital I
+0001277121
+  
+Guarantor – The Goldman Sachs Group, Inc.
+0000886982
+  
+  
+  
+PART I
+ITEM 1.  BUSINESS
+Not Applicable
+ITEM 1A.  RISK FACTORS
+Not Applicable
+ITEM 1B.  UNRESOLVED STAFF COMMENTS
+None
+ITEM 2.  PROPERTIES
+Not Applicable
+ITEM 3.  LEGAL PROCEEDINGS
+None
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+None
+PART II
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+The Units issued by the SATURNS trusts listed below representing investors’ interest in such trust are represented by one or more physical certificates registered in the name of Cede & Co., the nominee of The Depository Trust Company.  The Units are listed on the New York Stock Exchange:
+SATURNS Trust No. 2005-1 Class A Units (Goldman Sachs Capital I Capital Security Backed)
+ 
+ITEM 6.  SELECTED FINANCIAL DATA
+Not Applicable
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Not Applicable
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Not Applicable
+  
+  
+  
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Not Applicable
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+None
+ITEM 9A.  CONTROLS AND PROCEDURES
+Not Applicable
+ITEM 9B.  OTHER INFORMATION
+None
+PART III
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+None
+ITEM 11. EXECUTIVE COMPENSATION
+Not Applicable
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+None
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+None
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+Not Applicable
+  
+  
+  
+PART IV
+  
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+(a) The following documents are filed as part of this Report: None
+(b) Reports on Form 8-K:
+See Table Below:
+ 
+SATURNS
+Trust No.:
+ 
+ 
+Closing Date
+ 
+ 
+Payment Dates
+Form 8-K Filing Dates (Not Trust Agreement Filings in connection with Closing Date)
+For FY 2011
+2005-1
+12/15/04
+February 15 and August 15
+February 18, 2011 and August 18, 2011
+ 
+ 
+SATURNS
+Trust No.:
+ 
+ 
+ 
+Closing Date
+ 
+ 
+ 
+Event Description
+Form 8-K/A Filing Dates (Not Trust Agreement Filings in connection with Closing Date or filings related to Payment Dates)
+For FY 2011
+2005-1
+12/15/04
+A report on Form 8-K/A amending and superseding Exhibit 99.1 to the Distribution Reports filed during the period from February 22, 2005 through February 18, 2011.
+August 31, 2011
+(c) Exhibits:
+Exhibit 23
+Consent of Pustorino, Puglisi & Co., LLP (See Exhibit 99.1 – contained in final paragraph of accountants’ letter)
+Exhibit 31.1  
+Rule 13a-14(d) Certification
+Exhibit 31.2
+Trustee Compliance Certification (Bank of America, National Association)
+Exhibit 31.3
+Trustee Compliance Certification (U.S. Bank National Association)
+Exhibit 99.1
+Report of Pustorino, Puglisi & Co., LLP
+(d) Not applicable
+ 
+  
+  
+  
+SIGNATURES
+ 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+ 
+Date:  March 29, 2012
+ 
+ 
+ 
+ 
+  MS STRUCTURED ASSET CORP.
+ 
+ 
+  (Registrant)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By:               /s/In-Young Chase       
+ 
+ 
+ Name:        In-Young Chase
+ 
+ 
+  Title:           Vice President
+EX-31.1
+2
+saturns10k2005-1_ex311.htm
+    
+    
+    
+    
+Exhibit 31.1
+Rule 13a-14(d) Certification
+I, In-Young Chase, certify that:
+1.           I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports filed in respect of periods included in the year covered by this annual report, of MS Structured Asset Corp. on behalf of SATURNS Trust No. 2005-1;
+2.           Based on my knowledge, the information in these reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report;
+3.           Based on my knowledge, and except as disclosed in the respective Compliance Statements of U.S. Bank National Association (“U.S. Bank”) as successor-in-interest to Bank of America, National Association (“BANA”), and BANA as successor by merger to LaSalle Bank National Association (collectively, the “trustees”), the distribution or servicing information required to be provided to the depositor by the trustees under the pooling and servicing, or similar, agreement, for inclusion in these reports is included in these reports;
+4.           I am responsible for reviewing the activities performed by the depositor and the trustees under the pooling and servicing, or similar, agreement and based upon my knowledge and the annual compliance review required under that agreement, and except as disclosed in the Compliance Statements, the depositor and trustees have each fulfilled their obligations under that agreement; and
+5.           The reports, together with the Compliance Statements, disclose all significant deficiencies relating to the compliance by the trustees and the depositor with the minimum servicing or similar standards based upon the report provided by an independent public accountant, after conducting a review in compliance with the Uniform Single Attestation Program for Mortgage Bankers or similar procedure, as set forth in the pooling and servicing, or similar, agreement, that is included in these reports.
+In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties: (i) U.S. Bank as successor-in-interest to BANA and its officers and agents and (ii) BANA as successor by merger to LaSalle Bank National Association and its officers and agents. 
+ 
+ 
+ 
+ 
+ By:               /s/In-Young Chase       
+ 
+ 
+ Name:        In-Young Chase
+ 
+ 
+  Title:           Vice President
+ 
+ 
+  Date:          March 29, 2012
+ 
+EX-31.2
+3
+saturns10k2005-1_ex312.htm
+    
+    
+    
+    
+Exhibit 31.2
+COMPLIANCE CERTIFICATE
+ 
+Reference is made to the Trust Agreement, between MS Structured Asset Corp., as Depositor and US Bank National Association, as Trustee, as successor-in-interest to Bank of America, National Association, as trustee, as successor by merger to LaSalle Bank National Association, as trustee, for SATURNS Trust No. 2005-1, dated December 15, 2004, together with Schedules I, II and III attached thereto, and the Standard Terms for Trust Agreements, between MS Structured Asset Corp., as Depositor and U.S. Bank National Association, as Trustee, as successor-in-interest to Bank of America, National Association, as trustee, as successor by merger to LaSalle Bank National Association, as trustee dated March 4, 2003.  Capitalized terms used herein and not defined shall have the meanings defined in the Trust Agreement which incorporates the Standard Terms for Trust Agreements.
+In connection with the preparation and delivery of the annual report on Form 10-K of MS Structured Asset Corp. on behalf of SATURNS Trust No. 2005-1 for the fiscal year ending December 31, 2011 (“ Fiscal Year ”), and the certifications given on behalf of SATURNS 2005-1 by In-Young Chase with respect thereto, the applicable undersigned hereby certifies that he is a duly elected Senior Vice President of Bank of America, National Association (the “ Former Trustee ”) as successor by merger to LaSalle Bank National Association and further certifies in his capacity to the paragraphs applicable to such undersigned set forth below:
+1.           Bank of America, National Association as successor by merger to LaSalle Bank National Association has filed a copy of the reports to Unitholders on Form 8-K for the dates identified on Exhibit A attached hereto.
+2.           I have reviewed the reports on Form 8-K containing the reports to Unitholders identified on Exhibit A (the “ BANA Reviewed Distribution Reports ”) of MS Structured Asset Corp. on behalf of SATURNS Trust No. 2005-1;
+3.           I am familiar with the operations of Bank of America, National Association as successor by merger to LaSalle Bank National Association with respect to the SATURNS program and SATURNS Trust No. 2005-1 and the requirement imposed by the Trust Agreement;
+4.           Based on my knowledge, the reporting information in the BANA Reviewed Distribution Reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the date that the distribution information was filed on Form 8-K or Form 8-KA, as applicable, except for any material misstatements or omissions that may be disclosed in Exhibit B;
+5.           Based on my knowledge, the reporting information required to be provided under the Trust Agreement for inclusion in the BANA Reviewed Distribution Reports, is included in the BANA Reviewed Distribution Reports;
+6.           Based on my knowledge, except as disclosed in Exhibit B or in the BANA Reviewed Distribution Reports, for the applicable periods (as outlined in Exhibit C attached hereto) the Former Trustee has fulfilled its obligations, including any servicing obligations, under the Trust Agreement.
+7.           Based on my knowledge, as of September 6, 2011, and except as disclosed in the BANA Reviewed Distribution Reports or in Exhibit B hereto, there are no material legal proceedings with respect to the trust, involving the trust or Bank of America, National Association as successor by merger to LaSalle Bank National Association as Former Trustee.
+  
+  
+  
+ 
+ 
+ 
+I certify to paragraphs 3, 6 and 7 above:
+ 
+ 
+ 
+ 
+ 
+By:          /s/ Thomas M. O'Connor
+ 
+ 
+ Name:         Thomas M. O ' Connor
+ 
+ 
+  Title:           Senior Vice President
+ 
+ 
+ Date:           2/28/2012
+ 
+ 
+ 
+ 
+ 
+With respect to the February, 2011 distribution report filed on 
+Form 8-KA, I certify to paragraphs 1, 2, 4 and 5 above:
+ 
+ 
+ 
+ 
+ 
+By:            / s/ Thomas G. Lehmann         
+ 
+ 
+ Name:         Thomas G. Lehmann
+ 
+ 
+  Title:           Senior Vice President
+ 
+ 
+ Date:           2/28/2012
+  
+  
+  
+ 
+ 
+EXHIBIT A
+ 
+ 
+ 
+ 
+SATURNS Trust No.:
+ 
+ 
+Closing Date
+ 
+ 
+Payment Dates
+Dates for which BANA filed the Form 8-K
+For FY 2011
+Dates for which BANA filed the Form 8-KA
+for FY 2011
+BANA Reviewed Distribution Reports
+2005-1
+December 15, 2004
+February 15 and  August 15
+February 18, 2011 and August 19, 2011
+August 31, 2011
+February, 2011 Distribution Report
+ 
+ 
+  
+  
+  
+EXHIBIT B
+ 
+ 
+False Claims Act
+ 
+With respect to paragraph 7 of this certificate, the U.S. Government is conducting a civil investigation under the False Claims Act into whether originators, depositors, servicers, or trustees of residential mortgage-backed securities (“ RMBS ”) trusts submitted false claims for payment by  government purchasers of RMBS by (1) concealing that the trusts lacked collateral documents necessary to foreclose; (2) charging RMBS trusts for fraudulent loan processing services, including the preparation of fraudulent mortgage assignments; and (3) failing to ensure that the RMBS trusts paid necessary real estate mortgage investment conduit (“ REMIC ”) taxes.  Certain states may be conducting similar investigations.  The investigation may involve RMBS trusts in which current or former Bank of America affiliates, including BAC Home Loans Servicing LP, Bank of America Mortgage Securities, Inc., Countrywide Financial Corporation, and Bank of America, N.A. as successor by merger to LaSalle Bank, served as originator, depositor, servicer, or trustee.  The U.S. government’s investigation is also considering whether participants in RMBS trusts defrauded federal mortgage insurers, including the Federal Housing Administration and the Department of Housing and Urban Development by submitting claims for loan guarantee payments on loans for which the trusts lacked collateral documents necessary to foreclose.
+ 
+Investigations under the federal and most state False Claims Acts may be initiated by the applicable government investigative body or by a qui tam relator’s filing of a False Claims Act complaint under court seal.  If a qui tam relator’s complaint remained under seal, applicable law would restrict our ability to disclose such a fact.
+ 
+Ocala
+ 
+Bank of America, National Association is a named party in litigation involving Ocala Funding, LLP.  Information about this litigation is publicly disclosed in Bank of America Corporation’s Form 10-K and Form 10-Q filings.
+ 
+Fifth Third v. Concord Capital Management et al.
+ 
+Bank of America, National Association (“ Bank of America ”) was named as a co-defendant in a suit filed in September 2010 by Concord Capital Management LLC and affiliated parties (collectively, “ Concord ”) in the New York State Supreme Court against Bank of America (as successor by merger to LaSalle Bank National Association), Fifth Third Bank (“ Fifth Third ”) and other parties. The suit alleged gross negligence and breach of contract by Bank of America, acting as collateral agent, servicer and, until the transfer of such role to Wilmington Trust Company in February 2009, the trustee, in connection with a life insurance premium-financing loan facility known as “Ultra”, established by Concord and financed by Fifth Third.
+ 
+In November 2011, Fifth Third filed an amended complaint in Illinois State Court naming Concord, Bank of America and certain other parties, as defendants. Fifth Third’s lawsuit alleges breach of contract and gross negligence by Bank of America based on assertions about Bank of America’s duties substantially similar to those previously made by Concord in New York State Court.
+ 
+ 
+Bank of America’s motion to dismiss against Concord was granted on December 5, 2011. The Fifth Third lawsuit is ongoing.
+ 
+Nightingale Properties, LLC et al. vs. Bank of America, N.A., et al.
+ 
+Bank of America was named as a co-defendant with CW Capital Asset Management LLC (“ CWC ”) in suits filed in Tennessee State Court (in February 2011) New York State Court (in August 2011) and Federal District Court for the Southern District of New York (in December 2011) by the Nightingale Group, LLC and related parties (collectively, “ Nightingale ”). Each of the actions arose as a consequence of the default of four commercial loans in the LB-UBS Commercial Mortgage Trust, 2008-C1, and the filing by CWC on behalf of Bank of America of a collection suit in Tennessee against Nightingale and its owners/guarantors, which resulted in a receivership.
+ 
+The Tennessee and New York State complaints allege libel by CWC, as servicer, purportedly acting as agent of Bank of America, as trustee with respect to the LB-UBS Trust, arising from the publication by CWC of certain statements relating to the guarantee given by Nightingale in support of payment on the four commercial loans in the LB-UBS Trust. The Federal District Court complaint alleges breach of contract, intentional or negligent interference with prospective economic advantage, fraud, promissory estoppel and a RICO claim against CWC and Bank of America.
+ 
+ 
+ 
+  
+  
+  
+EXHIBIT C                      
+ 
+ 
+Mar 2003 Reference
+Standard Terms for Trust Agreements Section
+BANA
+USB
+2.02
+Entry Into Swap Agreement and Other Agreements
+1/1-9/6
+2/1-12/31
+3.02a
+Administration of the Trust
+1/1-9/6
+2/1-12/31
+3.02b
+Administration of the Trust
+1/1-9/6
+2/1-12/31
+3.03
+Collection of Certain Underlying Security Payments
+1/1-9/6
+2/1-12/31
+3.04
+Sale
+N/A
+N/A
+3.05a
+Unit Account
+1/1-9/6
+9/6-12/31
+3.05b
+Unit Account
+1/1-2/1
+2/1-12/31
+3.06
+Investment of Funds in the Accounts
+1/1-2/1
+2/1-12/31
+3.07
+Retained Interest
+1/1-9/6
+9/6-12/31
+3.08
+Access to Certain Documentation
+1/1-9/6
+2/1-12/31
+4.01
+Distributions
+1/1-9/6
+2/1-12/31
+4.02a
+Reports to Unitholders and Others - with respect to statement information (i) to (xi)
+N/A
+2/15/2011 & 8/15/2011
+4.02a
+Reports to Unitholders and Others - with respect to 8-K filing
+2/15/11 & 8/15/2011
+N/A
+4.02a
+Reports to Unitholders and Others - with respect to year end statement
+1/1-9/6
+9/6-12/31
+4.02b
+Reports to Unitholders and Others (b)
+1/1-2/1
+2/1-12/31
+4.02c
+Reports to Unitholders and Others (c)
+1/1-2/1
+2/1-12/31
+4.02d
+Reports to Unitholders and Others (d)
+1/1-3/1
+N/A
+4.02e
+Reports to Unitholders and Others (e)
+1/1-2/1
+2/1-12/31
+4.02f
+Reports to Unitholders and Others (f)
+1/1-3/1
+N/A
+4.03
+Calculation of Interest Rates
+1/1-2/1
+2/1-12/31
+4.04
+Compliance with Tax Reporting and Withholding Requirements
+1/1-2/1
+2/1-12/31
+4.05
+Preservation of Information, Communications to Holders - with respect to Registrar
+1/1-9/6
+9/6-12/31
+5.02
+Execution, Authentication, and Delivery
+1/1-9/6
+9/6-12/31
+5.03
+Registration; Registration of Transfer and Exchange
+1/1-9/6
+9/6-12/31
+5.04
+Mutilated, Destroyed, Lost and Stolen Units
+1/1-9/6
+9/6-12/31
+5.05
+Distributions in Respect of Units
+1/1-9/6
+9/6-12/31
+5.07
+Cancellation
+1/1-9/6
+9/6-12/31
+5.08
+Currency of Distributions in Respect of Units; Redenomination
+1/1-9/6
+9/6-12/31
+5.09
+Appointment of Paying Agent
+1/1-9/6
+9/6-12/31
+5.10
+Authenticating Agent
+1/1-9/6
+9/6-12/31
+5.11
+Issuance and Transfer Restrictions
+1/1-9/6
+9/6-12/31
+5.11e
+Issuance and Transfer Restrictions
+1/1-2/1
+2/1-12/31
+5.12
+Optional Exchange
+N/A
+N/A
+5.13
+Callable Series - with respect to notices
+N/A
+N/A
+5.13
+Callable Series - with respect to distributions
+N/A
+N/A
+7.01
+Voting Rights with Respect to Underlying Securities
+1/1-2/1
+2/1-12/31
+7.02
+Amendments and Waivers Under Swap Agreement and Guarantee
+N/A
+N/A
+8.01
+Realization Upon Default
+1/1-2/1
+2/1-12/31
+9.01
+Liquidation Events
+1/1-2/1
+2/1-12/31
+9.02
+Trust Wind Up Event
+1/1-2/1
+2/1-12/31
+9.03
+Expense Event
+1/1-2/1
+2/1-12/31
+9.05a
+Disposition of Trust Property
+1/1-2/1
+2/1-12/31
+9.05b
+Disposition of Trust Property
+1/1-9/6
+2/1-12/31
+9.05c
+Disposition of Trust Property - with respect to administration of terminations and liquidations, notices
+1/1-2/1
+2/1-12/31
+9.05c
+Disposition of Trust Property - with respect to distribution of proceeds
+1/1-9/6
+2/1-12/31
+9.05d
+Disposition of Trust Property
+1/1-2/1
+2/1-12/31
+9.05h
+Disposition of Trust Property
+1/1-2/1
+2/1-12/31
+9.05j
+Disposition of Trust Property
+1/1-9/6
+2/1-12/31
+9.06
+Limitation on Notice Requirement
+1/1-2/1
+2/1-12/31
+10.01
+Trustee Duties
+1/1-9/6
+2/1-12/31
+11.01
+Termination of Trust
+N/A
+N/A
+12.01
+Amendment of Trust Agreement; Waivers
+1/1-9/6
+2/1-12/31
+12.07
+Notice to Rating Agencies
+1/1-2/1
+2/1-12/31
+12.08
+Perfection of the Swap Counterparty Security Interest
+N/A
+N/A
+  
+Trust Agreement Sections
+  
+  
+Schedule I
+Callable Series
+1/1-9/6
+2/1-12/31
+Schedule I
+Expense Administrator
+1/1-9/6
+2/1-12/31
+Schedule I
+Warrant Agent
+1/1-9/6
+2/1-12/31
+Schedule I
+Notice of Interest Deferral
+1/1-2/1
+2/1-12/31
+Schedule I
+Compliance Certificate
+1/1-3/1
+N/A
+Schedule I
+Distribution Reports
+1/1-9/6
+9/6-12/31
+Schedule III
+Additional Warrant Terms
+1/1-9/6
+2/1-12/31
+EX-31.3
+4
+saturns10k2005-1_ex313.htm
+    
+    
+    
+    
+Exhibit 31.3
+ 
+COMPLIANCE STATEMENT
+ 
+Reference is made to the Trust Agreement, between MS Structured Asset Corp., as Depositor and U.S. Bank National Association, as Trustee, as successor-in-interest to Bank of America, National Association, as Trustee, as successor by merger to LaSalle Bank National Association, as Trustee, for SATURNS Trust No. 2005-1, dated December 15, 2004, together with Schedules I, II and III attached thereto, and the Standard Terms for Trust Agreements, between MS Structured Asset Corp., as Depositor and U.S. Bank National Association, as Trustee, as successor-in-interest to Bank of America, National Association, as Trustee, as successor by merger to LaSalle Bank National Association, as Trustee dated March 5 , 2003. Capitalized terms used herein and not defined shall have the meanings defined in the Trust Agreement and the Standard Terms for Trust Agreements.
+In connection with the preparation and delivery of the annual report on Form 10-K of MS Structured Asset Corp. on behalf of SATURNS Trust No. 2005-1 for the fiscal year ending December 31, 2011 (“Fiscal Year”) and the certifications given by In-Young Chase with respect thereto, the undersigned hereby certifies that she is a duly elected Vice President of U.S. Bank National Association (the “Trustee”) and further certifies in her capacity as such as follows:
+1.  
+U.S. Bank National Association has prepared all reports to Unitholders with respect to each distribution date for SATURNS Trust No. 2005-1, and has filed a copy of the reports to Unitholders for the months listed on Exhibit A attached hereto.
+2.  
+I have reviewed the reports on Form 8-K containing the reports to Unitholders included on Exhibit A (the “U.S. Bank Reviewed Distribution Reports”) for the year covered by this annual report of MS Structured Asset Corp., on behalf of SATURNS Trust No. 2005-1;
+ 
+3.  
+I am familiar with the operations of U.S. Bank National Association with respect to the SATURNS program and SATURNS Trust No. 2005-1 and the requirement imposed by the Trust Agreement,
+ 
+4.  
+Based on my knowledge, the information in the U.S. Bank Reviewed Distribution Reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the date that the distribution information was filed on Form 8-K or Form 8-KA, as applicable.
+ 
+5.  
+Based on my knowledge, the reporting information required to be provided in the U.S. Bank Reviewed Distribution Reports under the Trust Agreement, is included in the U.S. Bank Reviewed Distribution Reports;
+ 
+6.  
+Based on my knowledge, and except as disclosed in the U.S. Bank Reviewed Distribution Reports, for the applicable periods (as outlined in Exhibit B attached hereto), the Trustee has fulfilled its obligations under the Trust Agreement.
+ 
+7.  
+Based on my knowledge, and except as disclosed in this Compliance Statement or the U.S. Bank Reviewed Distribution Reports, there are no material legal proceedings with respect to the trust, involving the trust or U.S. Bank National Association as trustee.
+ 
+. 
+ 
+. 
+ 
+ 
+By:          /s/ Kimberly O. Jacobs    
+ 
+ 
+ Name:         Kimberly O. Jacobs
+ 
+ 
+  Title:           Vice President
+ 
+ 
+ Date:           March 8, 2012
+  
+  
+  
+Exhibit A
+SATURNS  Trust No.:
+Closing Date
+Payment Dates
+Dates for which U.S. Bank National Association filed the Form 8-K for FY 2011
+U.S. Bank Reviewed Distribution Reports
+2005-1
+December 15, 2004
+February 15, 2011, August 15, 2011
+N/A
+August 2011 Distribution Report
+  
+  
+  
+Exhibit B
+Allocation of Responsibility between BANA and USB regarding certain Trust Agreement provisions
+Mar 2003 Reference
+Standard Terms for Trust Agreements Section
+BANA
+USB
+2.02
+Entry Into Swap Agreement and Other Agreements
+1/1-9/6
+2/1-12/31
+3.02a
+Administration of the Trust
+1/1-9/6
+2/1-12/31
+3.02b
+Administration of the Trust
+1/1-9/6
+2/1-12/31
+3.03
+Collection of Certain Underlying Security Payments
+1/1-9/6
+2/1-12/31
+3.04
+Sale
+N/A
+N/A
+3.05a
+Unit Account
+1/1-9/6
+9/6-12/31
+3.05b
+Unit Account
+1/1-2/1
+2/1-12/31
+3.06
+Investment of Funds in the Accounts
+1/1-2/1
+2/1-12/31
+3.07
+Retained Interest
+1/1-9/6
+9/6-12/31
+3.08
+Access to Certain Documentation
+1/1-9/6
+2/1-12/31
+4.01
+Distributions
+1/1-9/6
+2/1-12/31
+4.02a
+Reports to Unitholders and Others - with respect to statement information (i) to (xi)
+N/A
+2/15/2011, 8/15/2011
+4.02a
+Reports to Unitholders and Others - with respect to 8-K filing
+2/15/2011, 8/15/2011
+N/A
+4.02a
+Reports to Unitholders and Others - with respect to year end statement
+1/1-9/6
+9/6-12/31
+4.02b
+Reports to Unitholders and Others (b)
+1/1-2/1
+2/1-12/31
+4.02c
+Reports to Unitholders and Others (c)
+1/1-2/1
+2/1-12/31
+4.02d
+Reports to Unitholders and Others (d)
+1/1-3/1
+N/A
+4.02e
+Reports to Unitholders and Others (e)
+1/1-2/1
+2/1-12/31
+4.02f
+Reports to Unitholders and Others (f)
+1/1-3/1
+N/A
+4.03
+Calculation of Interest Rates
+1/1-2/1
+2/1-12/31
+4.04
+Compliance with Tax Reporting and Withholding Requirements
+1/1-2/1
+2/1-12/31
+4.05
+Preservation of Information, Communications to Holders - with respect to Registrar
+1/1-9/6
+9/6-12/31
+5.02
+Execution, Authentication, and Delivery
+1/1-9/6
+9/6-12/31
+5.03
+Registration; Registration of Transfer and Exchange
+1/1-9/6
+9/6-12/31
+5.04
+Mutilated, Destroyed, Lost and Stolen Units
+1/1-9/6
+9/6-12/31
+5.05
+Distributions in Respect of Units
+1/1-9/6
+9/6-12/31
+5.07
+Cancellation
+1/1-9/6
+9/6-12/31
+5.08
+Currency of Distributions in Respect of Units; Redenomination
+1/1-9/6
+9/6-12/31
+5.09
+Appointment of Paying Agent
+1/1-9/6
+9/6-12/31
+5.10
+Authenticating Agent
+1/1-9/6
+9/6-12/31
+5.11
+Issuance and Transfer Restrictions
+1/1-9/6
+9/6-12/31
+5.11e
+Issuance and Transfer Restrictions
+1/1-2/1
+2/1-12/31
+5.12
+Optional Exchange
+N/A
+N/A
+5.13
+Callable Series - with respect to notices
+N/A
+N/A
+5.13
+Callable Series - with respect to distributions
+N/A
+N/A
+7.01
+Voting Rights with Respect to Underlying Securities
+1/1-2/1
+2/1-12/31
+7.02
+Amendments and Waivers Under Swap Agreement and Guarantee
+N/A
+N/A
+8.01
+Realization Upon Default
+1/1-2/1
+2/1-12/31
+9.01
+Liquidation Events
+1/1-2/1
+2/1-12/31
+9.02
+Trust Wind Up Event
+1/1-2/1
+2/1-12/31
+9.03
+Expense Event
+1/1-2/1
+2/1-12/31
+9.05a
+Disposition of Trust Property
+1/1-2/1
+2/1-12/31
+9.05b
+Disposition of Trust Property
+1/1-9/6
+2/1-12/31
+9.05c
+Disposition of Trust Property - with respect to administration of terminations and liquidations, notices
+1/1-2/1
+2/1-12/31
+9.05c
+Disposition of Trust Property - with respect to distribution of proceeds
+1/1-9/6
+2/1-12/31
+9.05d
+Disposition of Trust Property
+1/1-2/1
+2/1-12/31
+9.05h
+Disposition of Trust Property
+1/1-2/1
+2/1-12/31
+9.05j
+Disposition of Trust Property
+1/1-9/6
+2/1-12/31
+9.06
+Limitation on Notice Requirement
+1/1-2/1
+2/1-12/31
+10.01
+Trustee Duties
+1/1-9/6
+2/1-12/31
+11.01
+Termination of Trust
+N/A
+N/A
+12.01
+Amendment of Trust Agreement; Waivers
+1/1-9/6
+2/1-12/31
+12.07
+Notice to Rating Agencies
+1/1-2/1
+2/1-12/31
+12.08
+Perfection of the Swap Counterparty Security Interest
+N/A
+N/A
+Trust Agreement
+  
+  
+  
+Schedule I
+Callable Series
+1/1-9/6
+2/1-12/31
+Schedule I
+Expense Administrator
+1/1-9/6
+2/1-12/31
+Schedule I
+Warrant Agent
+1/1-9/6
+2/1-12/31
+Schedule I
+Notice of Interest Deferral
+1/1-2/1
+2/1-12/31
+Schedule I
+Compliance Certificate
+1/1-3/1
+N/A
+Schedule I
+Distributions Reports
+1/1-9/6
+9/6-12/31
+Schedule III
+Additional Warrant Terms
+1/1-9/6
+2/1-12/31
+EX-99.1
+5
+saturns10k2005-1_ex991.htm
+    
+    
+    
+    
+Exhibit 99.1
+[Letterhead of Pustorino, Puglisi & Co., LLP] 
+INDEPENDENT ACCOUNTANT’S REPORT
+ON APPLYING AGREED-UPON PROCEDURES
+MS Structured Asset Corp.
+1585 Broadway
+New York, NY 10036
+With respect to the Structured Asset Trust Unit Repackagings 2005-1 (“SATURNS Trust 2005-1”), we have performed the procedures listed below, which were agreed to by MS Structured Asset Corp. (the “Depositor”) solely to assist the Depositor in evaluating the Trustees’ (U.S. Bank National Association, and Bank of America, National Association, each for the respective periods during which they acted as Trustee) assertions that the administration of the Trust Property of SATURNS Trust 2005-1 (the “Trust”) was conducted in accordance with the terms of the Trust Agreement relating thereto for the year ended December 31, 2011.  This agreed-upon procedures engagement was performed in accordance with attestation standards established by the American Institute of Certified Public Accountants.  The sufficiency of these procedures is solely the responsibility of the specified user of this report, the Depositor.  Consequently, we make no representation regarding the sufficiency of the procedures described below either for the purpose for which this report has been requested or for any other purpose.
+Pursuant to the foregoing, for SATURNS Trust 2005-1, we:
+1.  
+Calculated the semi-annual interest payment, on the underlying security as defined in the prospectus.
+2.  
+Verified that interest payments on the underlying security were received on the scheduled date for payment thereof.
+3.  
+Calculated the semi-annual interest distributions and principal distributions, if any, on the Class A and Class B units.
+4.  
+Verified that distributions on Class A and Class B units were made on the scheduled dates for distribution thereof.
+  
+  
+  
+-2-
+5.  
+Verified Trust property amounts and balances.
+6.  
+Verified that the amounts of any units redeemed, upon receipt of redemption payments or notices of exercise of warrants, matched amounts of the relevant redemptions and warrant exercise amounts notified to the Trustees.
+7.  
+Verified that the proceeds of redemptions, exercise of warrants and liquidation of underlying securities following any underlying security default were applied within the time and in the manner provided in the Trust Agreement.
+8.  
+Verified that reports on Form 8-K were filed by the Trustees with the Securities and Exchange Commission on or before the fifteenth day following each payment date for the Class A and Class B units.
+We were not engaged to, and did not, perform an examination, the objective of which would be the expression of an opinion on the Trustees’ assertions.  Accordingly, we do not express such an opinion.  Had we performed additional procedures, other matters might have come to our attention that would have been reported to you.
+We are independent public accountants with respect to the Trustees and the Trust, as defined under the Code of Professional Ethics of the American Institute of Certified Public Accountants.
+This report is intended solely for the use of the Depositor and should not be used by those who have not agreed to the procedures and taken responsibility for the sufficiency of the procedures for their purposes.  However, this report is a matter of public record as a result of being included as an exhibit to the annual report on Form 10-K prepared by MS Structured Asset Corp. and filed with the Securities and Exchange Commission on behalf of SATURNS Trust 2005-1, and its distribution is not limited.
+/s/PUSTORINO, PUGLISI & CO., LLP
+PUSTORINO, PUGLISI & CO., LLP
+New York, New York
+March 14, 2012
