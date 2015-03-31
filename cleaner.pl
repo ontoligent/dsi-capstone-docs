@@ -2,6 +2,25 @@ use strict;
 use HTML::Strip;
 use utf8;
 
+my @headers = qw/
+Net Income
+Cost of Inflation
+Net Revenunes
+Operations?
+Quantitative and Qualitative Disclosure About Market Risk
+Results of Operations
+General Overview
+General
+Overview
+Executive Overview
+Revenues
+Cost of Renenues
+Research and Development
+Selling, General, and Administrative
+Income from Operations
+/;
+my $headers = join "|", @headers;
+
 # Instantiate an object for stripping HTML below
 my $hs = HTML::Strip->new();
 
@@ -20,7 +39,12 @@ for my $file (@files) {
 	# Open the source file, which is full of HTML
 	open IN, $file;
 	my @raw_html = <IN>;
-	my $raw_html = join "\n", @raw_html;
+	my $raw_html = '';
+	for my $line (@raw_html) {
+		chomp $line;
+		$line =~ s/(<\/[^>]+>)/$1\n/gm;
+		$raw_html .= $line . " ";
+	}
 	close IN;
 	
 	# Remove the HTML with the object created above
@@ -37,6 +61,8 @@ for my $file (@files) {
 	my $company = '';
 	my $sector = '';
 	for my $line (@clean_text) {
+	
+		# Grab info
 		if ($line =~ /^\s*COMPANY CONFORMED NAME:\s+(.+)\s*$/i) {
 			$company = $1;
 			next;
@@ -45,6 +71,8 @@ for my $file (@files) {
 			$sector = $1;
 			next;
 		}
+		
+		# Turn switches on and off
 		if ($line =~ /^\s*Item 7[. ]/i) {
 			$s1 = 1;
 			$s2 = 1;
@@ -54,23 +82,22 @@ for my $file (@files) {
 			$s1 = 0;
 			last;	
 		}
-		if ($line =~ /Not Applicable/) {
-			next;
-		}
-		if ($line =~ /Quantitative and Qualitative Disclosures About Market/i) {
-			next;
-		}
-		if ($line =~ /Item 7A/i) {
-			next;
-		}
-		if ($line =~ /ANALYSIS OF FINANCIAL CONDITION/i) {
-			next;
-		}
-		if ($line =~ /^\s*$/) {
-			next;
-		}
+		
+		# Skip extraneous content
+		next if (
+			   $line =~ /Not Applicable/i
+			|| $line =~ /Quantitative and Qualitative Disclosures? About Market/i
+			|| $line =~ /^\s*Item 7A/i
+			|| $line =~ /DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION/i
+			|| $line =~ /^\s*$/
+			|| $line =~ /^\s*($headers)\s*$/i
+		);
+		
+		# Gather content if on
 		$content .= "$line " if $s1;
 	}
+	
+	# Straighten out content
 	$content =~ s/\d+/ /g;
 	$content =~ s/\W+/ /g;
 	$content =~ s/\s+/ /g;
