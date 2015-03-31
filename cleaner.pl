@@ -2,23 +2,29 @@ use strict;
 use HTML::Strip;
 use utf8;
 
-my @headers = qw/
-Net Income
-Cost of Inflation
-Net Revenunes
-Operations?
-Quantitative and Qualitative Disclosure About Market Risk
-Results of Operations
-General Overview
-General
-Overview
-Executive Overview
-Revenues
-Cost of Renenues
-Research and Development
-Selling, General, and Administrative
-Income from Operations
-/;
+my @headers = (
+	"Table of Contents",
+	"Net Income",
+	"Cost of Inflation",
+	"Net Revenunes",
+	"Operations?",
+	"MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS? OF OPERATIONS\.?",
+	"QUANTITATIVE AND QUALITATIVE DISCLOSURES? ABOUT MARKET RISK",
+	"Results of Operations",
+	"General Overview",
+	"General",
+	"Overview",
+	"Executive Overview",
+	"Revenues",
+	"Cost of Renenues",
+	"Research and Development",
+	"Selling, General, and Administrative",
+	"Income from Operations",
+	"Not Applicable",
+	"Item 7A",
+	"INTRODUCTION AND OVERVIEW",
+	"of Operations"
+);
 my $headers = join "|", @headers;
 my $header_pat = qr/^\s*($headers)\s*$/i;
 
@@ -31,13 +37,14 @@ binmode(XML, ":utf8");
 print XML "<docs>\n";
 
 # Loop through the source file directory and do your business
+my $n = 0;
 my @files = `ls sample-data/*.txt`;
 for my $file (@files) {
 
 	# Remove new line if there is one
 	chomp $file;
 
-	# Open the source file, which is full of crappy HTML
+	# Open the source file, which is full of crappy HTML,
 	open IN, $file;
 	my @raw_html = <IN>;
 	my $raw_html = '';
@@ -97,9 +104,9 @@ for my $file (@files) {
 			|| $line =~ /^\s*$/
 			|| $line =~ $header_pat
 		);
-		
+
 		# Gather content if on
-		$content .= "$line " if $s1;
+		$content .= $line . " " if $s1;
 	}
 	
 	# Straighten out content
@@ -107,9 +114,10 @@ for my $file (@files) {
 	$content =~ s/\W+/ /g;
 	$content =~ s/\s+/ /g;
 	if ($content !~ /^\s*$/ && $s2) {
+		$n++;
 		my $id = $file;
 		$id =~ s/sample-data\/(.+)\.txt/$1/;
-		print XML "\t<doc>\n";
+		print XML "\t<doc n='$n'>\n";
 		print XML "\t\t<id>$id</id>\n";
 		print XML "\t\t<company>$company</company>\n";
 		print XML "\t\t<sector>$sector</sector>\n";
