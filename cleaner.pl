@@ -2,29 +2,38 @@ use strict;
 use HTML::Strip;
 use utf8;
 
+# Instantiate an object for stripping HTML below
 my $hs = HTML::Strip->new();
 
-my @files = `ls sample-data/*.txt`;
+# Create an start the XML file for dumping the cleaned data
 open XML, ">10k.xml";
 binmode(XML, ":utf8");
-
 print XML "<docs>\n";
 
+# Loop through the source file directory and do your business
+my @files = `ls sample-data/*.txt`;
 for my $file (@files) {
 
+	# Remove new line if there is one
 	chomp $file;
 
+	# Open the source file, which is full of HTML
 	open IN, $file;
 	my @raw_html = <IN>;
 	my $raw_html = join "\n", @raw_html;
 	close IN;
 	
+	# Remove the HTML with the object created above
 	my $clean_text = $hs->parse($raw_html);
+	
+	# Reduce multiple new lines to one
 	$clean_text =~ s/\n+/\n/gm;
+	
+	# Loop through the new text line by line and create an XML element for each
 	my @clean_text = split "\n", $clean_text;
 	my $s = 0; # print on/off switch
 	print XML "\t<doc>\n";
-	print XML "\t\t<id>$file</id>\t";
+	print XML "\t\t<id>$file</id>\n";
 	print XML "\t\t<c>";
 	for my $line (@clean_text) {
 		$s = 1 if $line =~ /^\s*Item 7[. ]/i;
@@ -32,9 +41,12 @@ for my $file (@files) {
 		print XML "$line " if $s;
 	}
 	print XML "\t\t</c>\n";
-	print XML "\n\t</doc>\n";
+	print XML "\t</doc>\n";
+	
+	# Clean out the object for reuse
 	$hs->eof;
 	
+	# Print the cleaned content to an external file for sake keeping
 	my $outfile = $file;
 	$outfile =~ s/sample-data/out/;
 	open OUT, ">$outfile";
