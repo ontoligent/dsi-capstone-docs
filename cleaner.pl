@@ -31,17 +31,29 @@ for my $file (@files) {
 	
 	# Loop through the new text line by line and create an XML element for each
 	my @clean_text = split "\n", $clean_text;
-	my $s = 0; # print on/off switch
-	print XML "\t<doc>\n";
-	print XML "\t\t<id>$file</id>\n";
-	print XML "\t\t<c>";
+	my $s1 = 0; # print line on/off switch
+	my $s2 = 0; # print doc on/off switch
+	my $content = '';
 	for my $line (@clean_text) {
-		$s = 1 if $line =~ /^\s*Item 7[. ]/i;
-		$s = 0 if $line =~ /^\s*Item 8[. ]/i;
-		print XML "$line " if $s;
+		if ($line =~ /^\s*Item 7[. ]/i) {
+			$s1 = 1;
+			$s2 = 1;
+			next;
+		}
+		if ($line =~ /^\s*Item 8[. ]/i) {
+			$s1 = 0;
+			last;	
+		}
+		$content .= "$line " if $s1;
 	}
-	print XML "\t\t</c>\n";
-	print XML "\t</doc>\n";
+	if ($s2) {
+		$content =~ s/\s+/ /g;
+		$content =~ s/Management’s Discussion and Analysis of Financial Condition and Results of Operations?//ig;
+		print XML "\t<doc>\n";
+		print XML "\t\t<id>$file</id>\n";
+		print XML "\t\t<c><![CDATA[$content]]></c>\n";
+		print XML "\t</doc>\n";	
+	}
 	
 	# Clean out the object for reuse
 	$hs->eof;
