@@ -2,6 +2,8 @@ use strict;
 use HTML::Strip;
 use utf8;
 
+my $sourcedir = 'sample-data';
+
 my @headers = (
 	"Table of Contents",
 	"Net Income",
@@ -38,7 +40,7 @@ print XML "<docs>\n";
 
 # Loop through the source file directory and do your business
 my $n = 0;
-my @files = `ls sample-data/*.txt`;
+my @files = `ls $sourcedir/*.txt`; 
 for my $file (@files) {
 
 	# Remove new line if there is one
